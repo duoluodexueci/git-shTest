@@ -19,4 +19,8 @@ hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
+
 在master分支上做修改
+=======
+在hot-fix分支上做修改
+>>>>>>> hot-fix
